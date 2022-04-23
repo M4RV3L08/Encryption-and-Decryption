@@ -6,3 +6,5 @@ when you run this script you can choose between 2 option : 1.Encryption 2.Decryp
 if you choose 1 you must enter what words or sentences that you want to Encrypt
 
 if you choose 2 you must enter a Decrypted word to Encrypt that
+
+if you choosed 2 you had to enter a cama seperated Encrypted string
